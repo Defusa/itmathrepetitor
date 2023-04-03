@@ -1,5 +1,0 @@
-D:/git/itmathrepetitor/itmathrepetitor/task_2/task2_2/out/build/x64-debug/CMakeFiles/edit_cache.dir
-D:/git/itmathrepetitor/itmathrepetitor/task_2/task2_2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-D:/git/itmathrepetitor/itmathrepetitor/task_2/task2_2/out/build/x64-debug/task2_2/CMakeFiles/task2_2.dir
-D:/git/itmathrepetitor/itmathrepetitor/task_2/task2_2/out/build/x64-debug/task2_2/CMakeFiles/edit_cache.dir
-D:/git/itmathrepetitor/itmathrepetitor/task_2/task2_2/out/build/x64-debug/task2_2/CMakeFiles/rebuild_cache.dir
