@@ -1,0 +1,3 @@
+D:/git/itmathrepetitor/itmathrepetitor/wWithW/out/build/x64-debug/CMakeFiles/wWithW.dir
+D:/git/itmathrepetitor/itmathrepetitor/wWithW/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/git/itmathrepetitor/itmathrepetitor/wWithW/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
